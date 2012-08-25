@@ -1,0 +1,2 @@
+To compile from source execute 'mvn package', the output can be found in /target
+Tu run do 'java -jar <jar-incl-deps>' to get the help
